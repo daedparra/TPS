@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\pg14david\\Downloads\\PG14_TPS_Class5_End\\PG14_TPS\\PhotonUnityNetworking.Editor.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
